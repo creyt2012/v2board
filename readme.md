@@ -1,6 +1,6 @@
 
 
-# **V2Board version 1.7.4 việt hóa**
+# **V2Board version 1.7.4
 
 - PHP7.4+
 - Composer
